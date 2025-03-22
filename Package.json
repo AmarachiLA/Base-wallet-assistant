@@ -1,0 +1,13 @@
+{
+  "name": "base-wallet-assistant",
+  "version": "1.0.0",
+  "description": "A Crypto Wallet Assistant for Base Blockchain",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "ethers": "^5.7.2"
+  }
+}
